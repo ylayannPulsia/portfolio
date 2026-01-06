@@ -1,0 +1,8 @@
+site_name: Mon Portfolio
+
+theme:
+  name: readthedocs
+
+plugins:
+  - search  # Plugin de recherche intégré
+  - mkdocs-nav-weight # Plugin pour une meilleure gestion des pages
