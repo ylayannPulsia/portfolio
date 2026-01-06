@@ -22,5 +22,3 @@ Lien utile : [Page officielle de VSCode](https://code.visualstudio.com/)
 ## Code Source
 
 Affichez un bloc de code montrant la commande pour vérifier la version de git : git --version
-
-
