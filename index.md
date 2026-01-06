@@ -1,4 +1,4 @@
-![Photo de profil](C:\portfolio\image\avatar.PNG)
+![Photo de profil](image\avatar.png)
 # Portefeuille de Compétences - Ylayann Malouda-Ribardiere
 
 ## Introduction
